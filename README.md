@@ -23,4 +23,4 @@ MAE для случайного леса: 2.06
 ## Как запустить проект локально
 Установить зависимости.
 
-Открыть ноутбук house_prediction.ipynb в Jupyter Notebook или VS Code.
+Открыть ноутбук house_price.ipynb в Jupyter Notebook или VS Code.
